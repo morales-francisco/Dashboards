@@ -21,18 +21,28 @@ Based on the request made by the company, we proposed the following analysis:
 The Sales Manger give me information about products, stores, daily sales transactions, and current inventory levels at each location
 According to that, I proceeded to create the data model.
 
+
 ![data-model](Images/data-model.png)
 
 ## Dashboard Design ##
 
 Once the data model was defined, I proceeded to create the necessary measures. [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
 
+
+
 ![measures](Images/measures.png)
+
+
+
 
 After that, the next step, is the creation of the dashboard.
 
 
+
+
 ![dashboard-1](Images/dashboard-1.png)
+
+
 
 
 
@@ -40,7 +50,12 @@ After that, the next step, is the creation of the dashboard.
 
 
 
+
+
+
 ![insights-2](Images/insigths-2.png)
+
+
 
 
 
@@ -58,47 +73,83 @@ Discovers
 
 - There is a marked seasonality in profits, which have fallen considerably in the months of February and August.
 
+
+
 ![seasonality](Images/seasonality.png)
+
+
+
 
 
 - The Colorbuds product is the best-selling product within the electronics category, yet it has the least stock within that category.
 
 
 
+
+
+
 - The profits of the items belonging to the electronics category are in a marked fall, mainly due to the Colorbuds product. This could be related to the previous point.
+
+
+
 
 
 ![seasonality](Images/colorbuds.png)
 
 
+
+
+
+
 - There is an rising trend in profits in the arts & crafts and sports & outdoors categories.
+
+
 
 
 ![seasonality](Images/art-crafts.png)
 
 
 
+
+
 ![seasonality](Images/sports-outdoor.png)
 
 
+
+
+
 - In airport and commercial stores, the category with the highest profits is electronics, while in downtown and residential the category with the highest profits is toys.
+
+
+
 
 
 ![seasonality](Images/commercial-airport.png)
 
 
 
+
+
 ![seasonality](Images/downtown-residential.png)
+
+
+
 
 
 - The maximum level of profits was obtained in December 2017. In this period the most relegated categories, such as toys, games and sports & outdoors, became more relevant.
 
 
 
+
+
 ![seasonality](Images/december-2017.png)
 
 
+
+
 - It could be thought that there is a high product turnover, since the highest levels of stock on hand correspond to the cities with the highest profits.
+
+
 
 
 
