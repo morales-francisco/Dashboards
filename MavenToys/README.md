@@ -25,7 +25,7 @@ According to that, I proceeded to create the data model.
 
 ## Dashboard Design ##
 
-Once the data model was defined, I proceeded to create the necessary measures.
+Once the data model was defined, I proceeded to create the necessary measures. [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
 
 ![measures](Images/measures.png)
 
