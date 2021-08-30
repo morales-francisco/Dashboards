@@ -17,3 +17,29 @@ Based on the request made by the company, we proposed the following analysis:
 - Discover insights about sales data.
 
 ## Data Modeling and Preparing ##
+
+The Sales Manger give me information about products, stores, daily sales transactions, and current inventory levels at each location
+According to that, I proceeded to create the data model.
+![data-model](Images/data-model.png)
+
+## Dashboard Design ##
+
+Once the data model was defined, I proceeded to create the necessary measures.
+
+![measures](Images/measures.png)
+
+After that, the next step, is the creation of the dashboard.
+![dashboard-1](Images/dashboard-1.png)
+![insights-1](Images/insights-1.png)
+![insights-2](Images/insigths-2.png)
+
+
+
+
+
+
+
+
+
+
+
