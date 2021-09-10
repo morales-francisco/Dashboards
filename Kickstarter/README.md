@@ -3,7 +3,7 @@ Kickstarter is an American public benefit corporation, that maintains a global c
 
 ## Source ##
 The data source is [Maven Analytics]( https://www.mavenanalytics.io/data-playground).
-You cand find the data dictionary at this [link](https://github.com/morales-francisco/Dashboards/blob/main/Kickstarter/Data/kickstarter_projects_data_dictionary.csv)
+You cand find the data dictionary at this [link](https://github.com/morales-francisco/Dashboards/blob/main/Kickstarter/Data/kickstarter_projects_data_dictionary.csv).
 
 ## Case of Analysis ##
 
@@ -17,3 +17,9 @@ Those questions were as follows:
 - As an investor, what types of projects should you be looking at to guarantee future success?
 
 ## Dashboard Design ##
+
+
+Once the analysis requirements were defined, the following dashboard was created.
+[Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Kickstarter/kickstarter-projects.pbix).
+
+![dashboard](Images/dashboard-kickstarter.jpg)
