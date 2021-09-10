@@ -22,4 +22,4 @@ Those questions were as follows:
 Once the analysis requirements were defined, the following dashboard was created.
 [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Kickstarter/kickstarter-projects.pbix).
 
-![dashboard](Images/dashboard-kickstarter.jpg)
+![dashboard](Images/dashboard.jpg)
