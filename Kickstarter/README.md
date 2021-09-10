@@ -23,7 +23,12 @@ Those questions were as follows:
 Once the analysis requirements were defined, I created the following dashboard.
 [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Kickstarter/kickstarter-projects.pbix).
 
+
+
 ![dashboard](Images/dashboard.jpg)
+
+
+
 
 ## Analysis and Conclusions ##
 
@@ -44,7 +49,10 @@ The 5 projects with the biggest Completion Goal over $1,000 are:
 - Joking Hazard
 - Bears vs Babies – A Card Game  
 
+
 ![part1](Images/part1.jpg)
+
+
 
 From the above image we can also observe the number of projects that were successful. 
 About 36% of the projects were successful, which would translate into around 135.000.
@@ -56,8 +64,32 @@ The 5 categories with the highest success percentage are:
 - Music: 49%
 - Art: 41% 
 
+Of the total number of successful projects, more than 60% are being distributed among the 5 main categories, with Music 18% (24K), Film & Video 18% (24K), Games 9% (13K), Publish 9% (12K) and Art 9% (12K).
+
+
+Different trends are seen over the years with respect to the project success rates.
+From 2009 to 2011 it grew from 44% to 46%, while from 2011 to 2015 the percentage dropped to 28%, this being its lowest point within the analyzed periods. From that moment it grew until the last year analyzed (2017), from up to 35%.
 
 
 
 
 ![part2](Images/part2.jpg)
+
+
+
+
+
+And in order to attend the last question, I proposed some points that could be interesting to analyze such as:
+
+- **The length of the project names**. 50% of the successful projects have 36 characters or less.  This could be a good indicator that backers are not attracted to projects with very long names, but rather prefer short ones.
+
+- Another aspect I analyzed is **whether the most successful categories are the most pledged**. I found that this is not necessarily the case. The graph shows that the most successful categories are the ones that were pledged the least. The categories that were pledged the most are slightly below the average success percentage.
+
+
+- And finally, I analyzed the **most used words om successful projects**, highlighting the following words: Film, Album, Short, New, Music, book, Video, Project, among others.
+
+
+
+
+![part3](Images/part3.jpg)
+
