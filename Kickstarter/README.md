@@ -12,7 +12,8 @@ As part of the Kickstarter's data analytics team, I was called on to participate
 Those questions were as follows:
 - How much money was pledged?
 - What project with a goal over $1,000 USD, had the biggest Goal Completion % (Pledged / Goal)?
-- Which category has the highest success percentage? How many projects have been successful?
+- How many projects have been successful?
+- Which category has the highest success percentage?
 - Can you identify any trends in project success rates over the years?
 - As an investor, what types of projects should you be looking at to guarantee future success?
 
