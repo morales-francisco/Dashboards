@@ -3,7 +3,7 @@ Kickstarter is an American public benefit corporation, that maintains a global c
 
 ## Source ##
 The data source is [Maven Analytics]( https://www.mavenanalytics.io/data-playground).
-You cand find the data dictionary on this [link] ()
+You cand find the data dictionary at this [link](https://github.com/morales-francisco/Dashboards/blob/main/Kickstarter/Data/kickstarter_projects_data_dictionary.csv)
 
 ## Case of Analysis ##
 
