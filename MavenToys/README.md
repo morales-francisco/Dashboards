@@ -18,7 +18,7 @@ Based on the request made by the company, we proposed the following analysis:
 
 ## Data Modeling and Preparing ##
 
-The Sales Manger give me information about products, stores, daily sales transactions, and current inventory levels at each location
+The sales manager provides me with details about the products, stores, daily sales activity, and present inventory levels at each location.
 According to that, I proceeded to create the data model.
 
 
@@ -26,7 +26,7 @@ According to that, I proceeded to create the data model.
 
 ## Dashboard Design ##
 
-Once the data model was defined, I proceeded to create the necessary measures. [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
+I then created the required measures after defining the data model. [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
 
 
 
@@ -35,7 +35,7 @@ Once the data model was defined, I proceeded to create the necessary measures. [
 
 
 
-After that, the next step, is the creation of the dashboard.
+The creation of the dashboard is the next step after that.
 
 
 
@@ -71,7 +71,7 @@ Global Information
 
 Discovers
 
-- There is a marked seasonality in profits, which have fallen considerably in the months of February and August.
+- Profits have experienced a significant seasonal decline between the months of February and August.
 
 
 
@@ -81,15 +81,14 @@ Discovers
 
 
 
-- The Colorbuds product is the best-selling product within the electronics category, yet it has the least stock within that category.
+- Despite having the least amount of stock in the electronics category, the Colorbuds product is the best-selling item there.
 
 
 
 
 
 
-- The profits of the items belonging to the electronics category are in a marked fall, mainly due to the Colorbuds product. This could be related to the previous point.
-
+- Electronics products' profits have significantly decreased, primarily as a result of the Colorbuds product. This might be connected to the previous statement.
 
 
 
@@ -101,7 +100,7 @@ Discovers
 
 
 
-- There is an rising trend in profits in the arts & crafts and sports & outdoors categories.
+- The categories of arts & crafts and sports & outdoor activities are seeing an increase in profits.
 
 
 
@@ -118,8 +117,7 @@ Discovers
 
 
 
-- In airport and commercial stores, the category with the highest profits is electronics, while in downtown and residential the category with the highest profits is toys.
-
+- Electronics are the product category with the highest profits in airport and commercial stores, while toys are the product category with the highest profits in residential and downtown areas.
 
 
 
@@ -136,7 +134,7 @@ Discovers
 
 
 
-- The maximum level of profits was obtained in December 2017. In this period the most relegated categories, such as toys, games and sports & outdoors, became more relevant.
+- In December 2017, the company's profits reached their peak level. During this time, the least important categories—like toys, games, and sports & outdoors—became more important.
 
 
 
@@ -147,7 +145,7 @@ Discovers
 
 
 
-- It could be thought that there is a high product turnover, since the highest levels of stock on hand correspond to the cities with the highest profits.
+- Since the cities with the highest profits also have the highest levels of stock on hand, it might be assumed that there is a high product turnover.
 
 
 
