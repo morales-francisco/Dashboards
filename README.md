@@ -1,10 +1,10 @@
 # Dashboards
 
-In this section you will find the different dashboards that I created.
+You can find the various dashboards I made in this section. 
 
-I used Power BI and Tableau to perform the dashboards.
+For the dashboards, I used Tableau and Power BI. 
 
-The dashboards I have been working on so far are the following:
+I have been working on the following dashboards thus far:
 
 - [Maven Toys in Power BI](https://github.com/morales-francisco/Dashboards/tree/main/MavenToys)
 
