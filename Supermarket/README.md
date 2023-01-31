@@ -51,7 +51,7 @@ Finally, a table with a heatmap-like format and a bar chart are included. The ta
 
 ![Supermarket](Images/Supermarket.jpg)
 
-[Download the .pbix file](https://github.com/morales-francisco/Dashboards/blob/main/Supermarket/Supermarket.pbix)
+[Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Supermarket/Supermarket.pbix)
 
 
 
