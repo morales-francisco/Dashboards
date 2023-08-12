@@ -1,4 +1,4 @@
-# Supermarket in Power BI #
+# Supermarket in Power BI + Tableau#
 
 ## Introduction ##
 The holding firm is the owner of a supermarket with locations all over the world. Sales data for the years 2012, 2013 and 2014 are shown, along with sales agents, items, and cities where sales were made. 
