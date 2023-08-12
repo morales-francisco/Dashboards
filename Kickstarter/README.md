@@ -1,3 +1,4 @@
+# Kickstarter Projects in Power BI + Tableau #
 ## Introduction ##
 Kickstarter is an American public benefit corporation, that maintains a global crowdfunding platform focused on creativity. The company's stated mission is to "help bring creative projects to life". As of July 2021, Kickstarter has received nearly $6 billion in pledges from 20 million backers to fund 205,000 projects, such as films, music, stage shows, comics, journalism, video games, technology, publishing, and food-related projects.
 
@@ -26,8 +27,6 @@ Those questions were as follows:
 ## Dashboard Design ##
 
 ### Power BI ###
-Once the analysis requirements were defined, I created the following dashboards.
-
 [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Kickstarter/kickstarter-projects.pbix)
 ![dashboard](Images/dashboard.jpg)
 
