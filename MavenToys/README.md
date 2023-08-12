@@ -32,8 +32,9 @@ According to that, I proceeded to create the data model.
 ## Dashboard Design ##
 
 ### Tableau ###
-![Tableau](Images/MavenToys_Tableau.png)
 [Link to Tableau Public](https://public.tableau.com/app/profile/francisco8213/viz/MavenToysDashboard_16917831008940/MavenToysDashboard)
+![Tableau](Images/MavenToys_Tableau.png)
+
 
 
 
@@ -48,23 +49,12 @@ According to that, I proceeded to create the data model.
 
 ### Power BI ###
 
-
-![dashboard-1](Images/dashboard-1.png)
-
 [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
-
-
-
-## Analysis and Conclusions ##
-
+![dashboard-1](Images/dashboard-1.png)
 ![insights-1](Images/insights-1.png)
 
 
-
-
-
-
-![insights-2](Images/insigths-2.png)
+## Analysis and Conclusions ##
 
 Global Information
 - Total Revenue from $14M.
