@@ -1,6 +1,12 @@
 ## Introduction ##
 Kickstarter is an American public benefit corporation, that maintains a global crowdfunding platform focused on creativity. The company's stated mission is to "help bring creative projects to life". As of July 2021, Kickstarter has received nearly $6 billion in pledges from 20 million backers to fund 205,000 projects, such as films, music, stage shows, comics, journalism, video games, technology, publishing, and food-related projects.
 
+This project was done in
+
+- [Power BI](https://github.com/morales-francisco/Dashboards/raw/main/Kickstarter/kickstarter-projects.pbix)
+- [Tableau](https://public.tableau.com/app/profile/francisco8213/viz/Kickstarterprojects_16917120723780/KickstarterDashboard)
+
+
 ## Source ##
 The data source is [Maven Analytics]( https://www.mavenanalytics.io/data-playground).
 You cand find the data dictionary at this [link](https://github.com/morales-francisco/Dashboards/blob/main/Kickstarter/Data/kickstarter_projects_data_dictionary.csv).
@@ -19,15 +25,15 @@ Those questions were as follows:
 
 ## Dashboard Design ##
 
+### Power BI ###
+Once the analysis requirements were defined, I created the following dashboards.
 
-Once the analysis requirements were defined, I created the following dashboard.
-[Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Kickstarter/kickstarter-projects.pbix).
-
-
-
+[Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Kickstarter/kickstarter-projects.pbix)
 ![dashboard](Images/dashboard.jpg)
 
-
+### Tableau ###
+[Link to Tableau Public](https://public.tableau.com/app/profile/francisco8213/viz/Kickstarterprojects_16917120723780/KickstarterDashboard)
+![dashboard](Images/Kickstarter_Tableau.png)
 
 
 ## Analysis and Conclusions ##
