@@ -6,9 +6,9 @@ For the dashboards, I used Tableau and Power BI.
 
 I have been working on the following dashboards thus far:
 
-- [Supermarket in Power BI](https://github.com/morales-francisco/Dashboards/tree/main/Supermarket)
+- [Supermarket in Power BI + Tableau](https://github.com/morales-francisco/Dashboards/tree/main/Supermarket)
 
-- [Maven Toys in Power BI](https://github.com/morales-francisco/Dashboards/tree/main/MavenToys)
+- [Maven Toys in Power BI + Tableau](https://github.com/morales-francisco/Dashboards/tree/main/MavenToys)
 
-- [Kickstarter Projects in Power BI](https://github.com/morales-francisco/Dashboards/tree/main/Kickstarter)
+- [Kickstarter Projects in Power BI + Tableau](https://github.com/morales-francisco/Dashboards/tree/main/Kickstarter)
 
