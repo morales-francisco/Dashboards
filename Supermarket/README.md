@@ -3,6 +3,10 @@
 ## Introduction ##
 The holding firm is the owner of a supermarket with locations all over the world. Sales data for the years 2012, 2013 and 2014 are shown, along with sales agents, items, and cities where sales were made. 
 
+This project was done in
+- [Power BI](https://github.com/morales-francisco/Dashboards/raw/main/Supermarket/Supermarket.pbix)
+- [Tableau](https://public.tableau.com/app/profile/francisco8213/viz/SupermarketDashboard_16917085770440/SupermarketDashboard)
+
 ## Source ##
 You can find the data sources in this [link](https://github.com/morales-francisco/Dashboards/tree/main/Supermarket/data).
 
@@ -48,11 +52,20 @@ A line chart and a treemap are also included. The line chart was created with th
 I then created a map and a bar chart. Understanding the company's key geographic areas and top markets was the goal of the first visualization. The goal of the second was to examine where the money was coming from and how it was being distributed across the various regions.
 
 Finally, a table with a heatmap-like format and a bar chart are included. The table's colors were chosen in the following manner: a brighter shade of orange is used for clients whose margin is less than the company average (41.25%), and a darker shade is used for clients whose margin exceeds the company average. The idea was to rapidly and clearly identify any clients with margins that deviate from or exceed the average for the business. The table is sorted in descending order by sales volume. Additionally, the bar chart enables the recognition of the cities that produce the highest marginal contributions.
+### Power BI ###
 
 ![Supermarket](Images/Supermarket.jpg)
 
 [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/Supermarket/Supermarket.pbix)
 
+
+
+
+### Tableau ###
+
+![Supermarket](Images/Supermarket_Tableau.png)
+
+[Link to Tableau Public](https://public.tableau.com/app/profile/francisco8213/viz/SupermarketDashboard_16917085770440/SupermarketDashboard)
 
 
 
