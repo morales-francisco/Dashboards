@@ -1,7 +1,12 @@
-# Maven Toys in Power BI #
+# Maven Toys in Power BI + Tableau #
 
 ## Introduction ##
 Maven Toys is a fictitious chain of toy stores in Mexico. This dataset includes information about products, stores, daily sales transactions, and current inventory levels at each location. 
+
+This project was done in
+
+- [Power BI](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
+- [Tableau](https://public.tableau.com/app/profile/francisco8213/viz/MavenToysDashboard_16917831008940/MavenToysDashboard)
 
 ## Source ##
 The data source is [Maven Analytics]( https://www.mavenanalytics.io/data-playground).
@@ -26,25 +31,31 @@ According to that, I proceeded to create the data model.
 
 ## Dashboard Design ##
 
-I then created the required measures after defining the data model. [Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
+### Tableau ###
+![Tableau](Images/MavenToys_Tableau.png)
+[Link to Tableau Public](https://public.tableau.com/app/profile/francisco8213/viz/MavenToysDashboard_16917831008940/MavenToysDashboard)
 
 
 
-![measures](Images/measures.png)
 
 
 
 
-The creation of the dashboard is the next step after that.
 
 
+
+
+
+### Power BI ###
 
 
 ![dashboard-1](Images/dashboard-1.png)
 
+[Download the .pbix file](https://github.com/morales-francisco/Dashboards/raw/main/MavenToys/MavenToys.pbix)
 
 
 
+## Analysis and Conclusions ##
 
 ![insights-1](Images/insights-1.png)
 
@@ -55,13 +66,7 @@ The creation of the dashboard is the next step after that.
 
 ![insights-2](Images/insigths-2.png)
 
-
-
-
-
-## Analysis and Conclusions ##
 Global Information
-
 - Total Revenue from $14M.
 - Total Profit from 4.01M (27.79%).
 - More than 75% of the profits are earned in downtown and commercial businesses.
